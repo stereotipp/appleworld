@@ -7,7 +7,7 @@
 ### Заголовок 3
 
 ИЗображени вставлять с помощью 
-!.[Branching].(1BDC344C-39F8-4110-A6C1-97B9A59AF490.jpeg)
+![Branching](1BDC344C-39F8-4110-A6C1-97B9A59AF490.jpeg)
 а ссылки 
-.[Link].(url)
+[Link](url)
 
